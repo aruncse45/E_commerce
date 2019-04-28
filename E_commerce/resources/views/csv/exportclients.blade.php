@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Exporting csv file</title>
+</head>
+<body>
+	<table>
+		<tr>
+			<td>NOM</td>
+			<td>PRENOM</td>
+			<td>EMAIL</td>
+			<td>ADDRESS</td>
+		</tr>
+		<tr>
+			<td>as</td>
+			<td>bs</td>
+			<td>cs</td>
+			<td>ds</td>
+		</tr>
+		<tr>
+			<td>es</td>
+			<td>ffhjfhjfhs</td>
+			<td>cs</td>
+			<td>ds</td>
+		</tr>
+		<tr>
+			<td>gs</td>
+			<td>bs</td>
+			<td>cs</td>
+			<td>ds</td>
+		</tr>
+	</table>
+</body>
+</html>
